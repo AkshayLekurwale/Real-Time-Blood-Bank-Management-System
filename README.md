@@ -6,8 +6,8 @@ This is a web-based system for managing blood bank operations, including donor r
 
 ## 📸 Project Snapshots
 
-### 🔐 Admin Login Page
-![Admin Login](admin/admin_image/original%20images/admin-login.png)
+### 🔐 Admin Pages
+![Admin Login](admin/admin_image/original%20images/Dashboard summary.png)
 
 ### 📊 Dashboard Overview
 ![Dashboard](admin/admin_image/original%20images/dashboard.png)
